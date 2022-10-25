@@ -39,6 +39,7 @@ img {
     height: 375px;
     margin: 10px 15px;
     box-shadow: var(--box-shadow);
+    border-radius: 10px;
 }
 
 .container {
